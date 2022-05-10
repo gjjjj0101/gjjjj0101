@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭  I’m a junior at Beijing University of Posts and Telecommunications.
+- 🌱 I’m currently learning Microservices and Distributed.
 <!--
 **gjjjj0101/gjjjj0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
